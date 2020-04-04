@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aathi</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="css folder/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<?php include"main.php";?>
+
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/OLD91Y0.jpg" alt="Los Angeles" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Los Angeles</h3>
+        <p>We had such a great time in LA!</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="img/001.jpg" alt="Chicago" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Chicago</h3>
+        <p>Thank you, Chicago!</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="img/13408.jpg" alt="New York" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>   
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+
+<section class="my-5">
+	<div class="py-5">
+	<h2 class="text-center">About</h2></div>
+	<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-6 col-md-6 col-12">
+			<img src="img/10635.jpg" class="aboutimg img-fluid ">
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-12">
+				<h2>AATHI</h2>
+			</div></div></div>
+</section>
+
+
+
+<section class="my-5">
+	<div class="py-5">
+	<h2 class="text-center">services</h2></div>
+		<div class="container-fluid">
+<div class="row">
+	<div class="col-lg-4 col-md-4 col-12">
+	<div class="card">
+  <img class="card-img-top img-fluid" src="img/13408.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+
+	<div class="col-lg-4 col-md-4 col-12">
+	<div class="card">
+  <img class="card-img-top img-fluid" src="img/13408.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+
+	<div class="col-lg-4 col-md-4 col-12">
+	<div class="card">
+  <img class="card-img-top img-fluid" src="img/13408.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="my-5">
+	<div class="py-5">
+	<h2 class="text-center">brands we have</h2></div>
+		<div class="container-fluid">
+<div class="row">
+	<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>
+		<div class="col-lg-4 col-md-4 col-12">
+<img src="img/0001.jpg"class="img-fluid py-3">		
+	</div>	
+</div>
+</div>
+</section>
+
+
+
+
+<section class="my-5">
+	<div class="py-5">
+	<h2 class="text-center">User info</h2></div>
+
+	<div class="w-50 m-auto">
+	<form action="userinfo.php" method="post">
+		<div class="form-group">
+			<label>user name</label>
+			<input type="text" name="user"autocomplete="off" class="form-control">
+			
+		</div>
+			<div class="form-group">
+			<label>Email Id</label>
+			<input type="text" name="email"autocomplete="off" class="form-control">
+			
+		</div>
+			<div class="form-group">
+			<label>Mobile no</label>
+			<input type="text" name="mobile"autocomplete="off" class="form-control">
+			</div>
+			<button type="submit" class="btn btn-primary">Submit</button>
+		
+	</form>		
+	</div></section>
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>
